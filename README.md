@@ -6,7 +6,7 @@ QuietQueue: Line Management for Small Venues
 
 Small businesses often rely on sign-up sheets, first-come-first-serve lines, or phone calls for handling queues. This wastes time, frustrates customers, and causes these businesses to lose out on revenue when people leave due to long waits.
 
-QuietQueue is a lightweight, mobile-friendly system that lets people join a virtual line remotely, get real-time wait updates, and receive a notification when it’s almost their turn. This helps businesses manage their flow of customers more efficiently.
+QuietQueue is a mobile application that lets people join a virtual line remotely, get real-time wait updates, and receive a notification when it’s almost their turn. This helps businesses manage their flow of customers more efficiently.
 
 This solves a real gap: big chains have advanced systems, but smaller venues don’t have simple/affordable queue management tools.
 
